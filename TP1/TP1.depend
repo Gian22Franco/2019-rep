@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1567621523 source:c:\users\gianm\desktop\tp1\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<stdio.h>
+
+1567618871 c:\users\gianm\desktop\tp1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567618841 source:c:\users\gianm\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567630642 source:c:\users\gianm\desktop\kk\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<stdio.h>
+
+1567630663 c:\users\gianm\desktop\kk\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567630694 source:c:\users\gianm\desktop\kk\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567714090 source:c:\users\gianm\desktop\nueva carpeta\tp1\kk\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567714088 c:\users\gianm\desktop\nueva carpeta\tp1\kk\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567714155 source:c:\users\gianm\desktop\nueva carpeta\tp1\kk\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<stdio.h>
+
