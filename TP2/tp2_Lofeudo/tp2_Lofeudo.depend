@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1570139589 source:c:\users\gianm\desktop\tp2_lofeudo\tp2_lofeudo\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570139293 c:\users\gianm\desktop\tp2_lofeudo\tp2_lofeudo\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1570139497 source:c:\users\gianm\desktop\tp2_lofeudo\tp2_lofeudo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570218497 source:c:\users\gianm\desktop\tp2\funciones-en-c\tp2_lofeudo\tp2_lofeudo\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570217526 c:\users\gianm\desktop\tp2\funciones-en-c\tp2_lofeudo\tp2_lofeudo\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1570217847 source:c:\users\gianm\desktop\tp2\funciones-en-c\tp2_lofeudo\tp2_lofeudo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570218497 source:c:\users\gianm\desktop\tp2\tp2_lofeudo\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570217526 c:\users\gianm\desktop\tp2\tp2_lofeudo\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1570217847 source:c:\users\gianm\desktop\tp2\tp2_lofeudo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
